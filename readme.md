@@ -30,6 +30,7 @@
 ## Libraries and components:
 
 - [auto-form](https://github.com/vantezzen/auto-form) - A React component that automatically creates a shadcn/ui form based on a zod schema.
+- [autocomplete-component](https://github.com/Balastrong/shadcn-autocomplete-demo) - An Autocomplete controlled component, handling async filtered data from the backend. Demo with Tanstack Query included.
 - [date-range-picker-for-shadcn](https://github.com/johnpolacek/date-range-picker-for-shadcn) - Includes multi-month views, text entry, preset ranges, responsive design and date range comparisons.
 - [enhanced-buttton](https://enhanced-button.vercel.app/) - Easily expand the regular shadcn/ui-button component with new button styles, without the need of creating new additional button components.
 - [fancy-multi-select](https://craft.mxkaske.dev/post/fancy-multi-select) - The Multi Select Component is inspired by campsite.design's and cal.com's settings forms.
